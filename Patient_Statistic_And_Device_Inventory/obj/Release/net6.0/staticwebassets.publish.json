@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AexpWVraPcZbwc+fUPXZ4ViMH589mFzQGlTVq4DVSC4=",
+  "Source": "Patient_Statistic_And_Device_Inventory",
+  "BasePath": "_content/Patient_Statistic_And_Device_Inventory",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

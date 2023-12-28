@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Patient_Statistic_And_Device_Inventory.props" />
+</Project>
